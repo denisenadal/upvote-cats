@@ -1,0 +1,10 @@
+.box.favorite {
+    background: linear-gradient(141deg, 
+        #f2a2ed1f 0%, 
+        #00d1b229 71%,
+        #02eb0017 100%);
+}
+
+.media img {
+    object-fit: cover
+}
